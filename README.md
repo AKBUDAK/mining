@@ -1,0 +1,2 @@
+# mining
+Hazır build xmrig
